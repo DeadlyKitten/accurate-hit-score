@@ -1,6 +1,4 @@
 ﻿using IPA;
-using IPA.Config;
-using IPA.Utilities;
 using UnityEngine.SceneManagement;
 using IPALogger = IPA.Logging.Logger;
 
